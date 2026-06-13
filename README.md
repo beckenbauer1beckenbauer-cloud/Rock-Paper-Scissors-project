@@ -1,7 +1,5 @@
 # Rock Paper Scissors AI Player
 
-An algorithmic game-theory project completed for the **Machine Learning with Python** certification on **freeCodeCamp**.
-
 The core objective is to construct an autonomous adaptive player function that defeats 4 programmatic bots—each employing disparate mathematical and historical strategies (Quincy, Abbey, Kris, and Mrugesh)—by achieving a minimum win rate of **60%** over 1000 consecutive rounds per match.
 
 ## 🧠 Algorithmic Architecture (N-gram Markov Model)
